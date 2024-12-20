@@ -403,29 +403,20 @@
 <!-- optional -->
 
   <script type="module">
-  const el = document.querySelector('#comments #beaudar');
-  util.viewportLazyload(el, load_beaudar, false);
+  const el = document.getElementById('twikoo_container');
+  util.viewportLazyload(el, load_twikoo, false);
 
-  function load_beaudar() {
+  function load_twikoo() {
     if (!el) return;
-    try {
-      el.innerHTML = '';
-    } catch (error) {
-      console.error(error);
-    }
-    const script = document.createElement('script');
-    script.src = 'https://beaudar.lipk.org/client.js';
-    script.async = true;
-    for (const key of Object.keys(el.attributes)) {
-      const attr = el.attributes[key];
-      if (['class', 'id'].includes(attr.name) === false) {
-        script.setAttribute(attr.name, attr.value);
-      }
-    }
-    el.appendChild(script);
+    utils.js('https://gcore.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.all.min.js', {defer: true}).then(function () {
+      const path = el.getAttribute('comment_id') ?? decodeURI(window.location.pathname);
+      twikoo.init(Object.assign({"js":"https://gcore.jsdelivr.net/npm/twikoo@1.6.8/dist/twikoo.all.min.js","envId":"https://jinmaogouPro.us.kg"}, {
+        el: '#twikoo_container',
+        path: path,
+      }));
+    });
   }
 </script>
-
 
 
 
