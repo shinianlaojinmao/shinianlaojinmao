@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>无 BANNER</title>
+      <link href="/2024/12/20/%E6%97%A0%E8%AF%AD%E5%A4%A7%E4%BA%8B%E4%BB%B6%20-%20%E5%89%AF%E6%9C%AC/"/>
+      <url>/2024/12/20/%E6%97%A0%E8%AF%AD%E5%A4%A7%E4%BA%8B%E4%BB%B6%20-%20%E5%89%AF%E6%9C%AC/</url>
+      
+        <content type="html"><![CDATA[<p>最近不知道写啥了，可以在评论区里推荐一点题材😅</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo博客</title>
+      <link href="/2024/11/30/hexo%E7%BD%91%E7%AB%99/"/>
+      <url>/2024/11/30/hexo%E7%BD%91%E7%AB%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="官方”"><a href="#官方”" class="headerlink" title="官方”"></a>官方”</h2><p>hexo.io</p><h2 id="第一步”"><a href="#第一步”" class="headerlink" title="第一步”"></a>第一步”</h2><p>先安装git和node.js到电脑中，教程如下👇<br>点击下载node.js <a href="https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi">https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi</a><br>点击下载git <a href="https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-64-bit.exe">https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-64-bit.exe</a></p><h2 id="二”"><a href="#二”" class="headerlink" title="二”"></a>二”</h2><p>🆗呀！你已经完成了，接下来开始的安装过程吧，可以配置一些淘宝镜像源，但是不介意速度的就直接在git中复制</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure><p>🆗加载好了，在桌面新建一个文件夹，右击选择open git bash here,启动后输</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo into 你随意名字命名</span><br></pre></td></tr></table></figure><p>🆗你又好了对吧？直接又输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cd 刚刚名字</span><br></pre></td></tr></table></figure><p>此时基本🆗，先输入hexo g，ok后写入hexo s，这下可以本地预览了！</p><h2 id="第N步”"><a href="#第N步”" class="headerlink" title="第N步”"></a>第N步”</h2><p>主题自己配置，到hexo.io，进theme这里建议stellar主题，很好用，具体：<a href="http://www.xaoxuu.com/wiki/stellar">www.xaoxuu.com/wiki/stellar</a><br>#安装方法<br>选自stellar安装文档<br>npm i hexo-theme-stellar<br>在 _config.yml 文件中找到并修改：<br>theme: stellar</p><h2 id="第N步”-1"><a href="#第N步”-1" class="headerlink" title="第N步”"></a>第N步”</h2><p>主题可以自己魔改，接下来发文章，在\source_posts里新建XXX.md，格式</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title: 标题</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h2 id="第N步”-2"><a href="#第N步”-2" class="headerlink" title="第N步”"></a>第N步”</h2><p>新建github账户，创建一个仓库，名字叫GitHub名字.github.io，公开的，复制一下仓库地址！<br>在config.yml,在下面找到#<br>deploy:<br>  type: ‘git’<br>  repo: 自己的<br>  branch: main<br>就可输入名字.github.io访问了！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>华为手机助手</title>
+      <link href="/2024/11/29/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B---1/"/>
+      <url>/2024/11/29/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B---1/</url>
+      
+        <content type="html"><![CDATA[<p>封面还是来自于网络[网站]<a href="https://tse4-mm.cn.bing.net/th/id/OIP-C.zUYAo7v-qg3hQ3HZQb1O1gHaEK?rs=1&pid=ImgDetMain">https://tse4-mm.cn.bing.net/th/id/OIP-C.zUYAo7v-qg3hQ3HZQb1O1gHaEK?rs=1&amp;pid=ImgDetMain</a></p><h2 id="华为手机更新”"><a href="#华为手机更新”" class="headerlink" title="华为手机更新”"></a>华为手机更新”</h2><p>  今天换个口味，暂时不讲电脑了，上次自从mate20更新到harmonyOS4.0.0后仅仅过了一年新鲜度过了就退回来了，起初在网上找了9008等等，风险大，<img src="https://ts1.cn.mm.bing.net/th/id/R-C.5efb4cef64b426792e1018487cad284c?rik=3zT6jMkGDOKKBg&riu=http://img3.downza.cn/softbaike/201907/103627-5d37c42b6f111.jpg&ehk=QVuMVi7T1hUT7kYMl5dBHRuocZRXZ1wAwE8d3cw7wWU=&risl=&pid=ImgRaw&r=0" alt="图片">图片来自于下载之家！</p><h2 id="2怎么用”"><a href="#2怎么用”" class="headerlink" title="2怎么用”"></a>2怎么用”</h2><pre><code> 这个工具众所周知！但是肯定知道点系统更新可以升级系统，但是！等等它转圈完后切换到其它系统可以降级！虽然很好用，但要注意！备份第一，如果资料及其重要，建议不搞了！</code></pre><h2 id="体验”"><a href="#体验”" class="headerlink" title="体验”"></a>体验”</h2><p>降级好后，温度高了，没一会就好了！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>做网站</title>
+      <link href="/2024/11/23/etahzdngxfmsjau5yWEGDxfh,viug9tfsaye/"/>
+      <url>/2024/11/23/etahzdngxfmsjau5yWEGDxfh,viug9tfsaye/</url>
+      
+        <content type="html"><![CDATA[<p>————————————————</p><p>建议使用黑夜模式查看</p><h2 id="大家会疑惑个人网站怎么搭建吗？？？”"><a href="#大家会疑惑个人网站怎么搭建吗？？？”" class="headerlink" title="大家会疑惑个人网站怎么搭建吗？？？”"></a>大家会疑惑个人网站怎么搭建吗？？？”</h2><p>其实简单，用hexo搭建是很不错的，但是有些人想要更简单。</p><h2 id="比如说你想告诉别人你的想法”"><a href="#比如说你想告诉别人你的想法”" class="headerlink" title="比如说你想告诉别人你的想法”"></a>比如说你想告诉别人你的想法”</h2><p>用html语言就行，在桌面新建一个index.html，然后这么写</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">&lt;h1&gt;你想说的&lt;h1&gt;</span><br><span class="line">&lt;h2&gt;你想说的&lt;h2&gt;</span><br><span class="line">&lt;h3&gt;你想说的&lt;h3&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>打开就出现了你写的文字！<br>不过如果你想搭建博客，就用hexo.io<br>（hexo官方文档）<br>typecho.org<br>（typecho官方文档）</p><h2 id="把网站放到浏览器上”"><a href="#把网站放到浏览器上”" class="headerlink" title="把网站放到浏览器上”"></a>把网站放到浏览器上”</h2><p>在控制面板启动IIs控制器(怎么打开我也差不多不记得了，可以上网搜)，然后加载完毕后打开，在你的电脑名字点一下三角号，点击网站，点击右边新建，这时把index.html文件拖到D盘，然后网站名称随便，物理路径选D盘，下面绑定把IP地址输入127.0.0.1就OK端口默认80，然后下载快解析在电脑上，安装好后注册登录，点击添加映射，IP其他的都是默认，端口80!最后，电脑不能关机，不然网站就无法打开 ）此时，你：（*&amp;*%fwgansrymzhwDFEGDXTZEwfezgxdf￥#@）</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>windows的Microsoft账户</title>
+      <link href="/2024/11/23/jmg/"/>
+      <url>/2024/11/23/jmg/</url>
+      
+        <content type="html"><![CDATA[<p>注意：此封面由<a href="http://www.netbian.com/desk/30604.htm%E6%8F%90%E4%BE%9B%EF%BC%9B">http://www.netbian.com/desk/30604.htm提供；</a></p><h2 id="注册微软账户”"><a href="#注册微软账户”" class="headerlink" title="注册微软账户”"></a>注册微软账户”</h2><p>新电脑买来会送Microsoft365，但是要注册Microsoft账户，但是，很多人都不知道该怎么注册。</p><h2 id="立刻注册！”"><a href="#立刻注册！”" class="headerlink" title="立刻注册！”"></a>立刻注册！”</h2><p>其实微软账户注册方式多的很！我是在bing收录来注册的，注册访问很快！！！！！！在百度搜bing收录就行，或者直接在win11&#x2F;win10设置里直接注册，但会遇到各种错误。或者在outlook邮箱直接设置登录！</p><h2 id="错误”"><a href="#错误”" class="headerlink" title="错误”"></a>错误”</h2><p>微软服务器在国内访问也是OK的，但是如果直接登录在电脑设置的话需要PIN，不然就会出现无法开机。<br>而且pin还那天给你失效了，那电脑会报废吗？</p><h2 id="简单修复”"><a href="#简单修复”" class="headerlink" title="简单修复”"></a>简单修复”</h2><p>如果pin没弄进不去，请先在登录界面按住Shift，然后点重启，里面有恢复，直接恢复，如果启动不了，只能重装系统了！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>winxp</title>
+      <link href="/2024/11/16/%E9%82%A3%E4%BA%9Bwinxp%E9%87%8C%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%9C%E8%A5%BF%EF%BC%88%E6%80%80%E6%97%A7%EF%BC%89/"/>
+      <url>/2024/11/16/%E9%82%A3%E4%BA%9Bwinxp%E9%87%8C%E7%9A%84%E4%B8%80%E4%BA%9B%E4%B8%9C%E8%A5%BF%EF%BC%88%E6%80%80%E6%97%A7%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>封面来自于网络，图片作者未知<br>还记得winxp吗，由于没用过，所以，<img src="https://ts1.cn.mm.bing.net/th/id/R-C.83832f9aaf8b8d5989946b2e48891bc7?rik=ylT1+fcFWiL6LQ&riu=http://img.iplaysoft.com/wp-content/uploads/2015/vmware-workstation-pro/vmware_workstation_pro_screenshot.jpg&ehk=JoVRbJV2odRaYLsQdDiSO1WPoe879lrMWRBbLqh6pmY=&risl=&pid=ImgRaw&r=0" alt="虚拟机"><br>图片来自于网络，由于自己用的没截图，来自于异次元网<br>虚拟机走起<br>研究了半，也是搞上来了！目前安装好了，打开此电脑，点击搜索，出现了一个小黄狗，原来是帮助找文件的，之前我只用过win7&#x2F;8&#x2F;10&#x2F;11都不知道，昨天看视频才知道的—<br>注：所有图片来自于网络（本文）！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>搞笑事件</title>
+      <link href="/2024/11/16/%E6%97%A0%E8%AF%AD%E5%A4%A7%E4%BA%8B%E4%BB%B6/"/>
+      <url>/2024/11/16/%E6%97%A0%E8%AF%AD%E5%A4%A7%E4%BA%8B%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<p>你绝对没想过发生了什么😀🤣🤣🤣🤣🤣🤣🤣<br>住：本期没有干粮！<br>2024年11&#x2F;15日，距今大概1天，空调掉下来了！<br>空调：（*&amp;……%￥#￥%……&amp;*（）——+</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电脑共享连接以及win7激活</title>
+      <link href="/2024/11/09/%E4%BB%8A%E5%A4%A9/"/>
+      <url>/2024/11/09/%E4%BB%8A%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<h2 id="共享的电脑”"><a href="#共享的电脑”" class="headerlink" title="共享的电脑”"></a>共享的电脑”</h2><p>首先，如果打印机无无线功能，是需要共享的*前提两台电脑，或共享文件好吧？but win7还好，win10简直是在发癫！如果用win10共享，先找到控制面板点一下上面的控制面板，复制 控制面板\网络和 Internet\网络和共享中心 这个文档就行了，依次点击高级共享设置，你就会看到专用网络，点一下，会出现🔍网络发现 文件和打印机。。。。。。。@#￥%……&amp;&amp;……%￥ ，无脑全部打开！包括公用与所以，开关全开！！！还要记住电脑名称，在关于电脑里有!!!!!!不是用户名，但也要记住！<br>—-注意！在所以网络下吧文件共享链接加密不动，在密码保护共享把他关了就OK了<br>   -2链接端 找到网络 再此电脑内，点击相连接的共享电脑名称,链接，输入用户名，例如admin,没人不一样的，密码不填，直接过！</p><h2 id="2。激活”"><a href="#2。激活”" class="headerlink" title="2。激活”"></a>2。激活”</h2><p>上次看到老师办公室里都显示激活电脑，但第三方工具要收费，这里如果个人使用就在<a href="http://www.aichunjing.com上找KMS激活工具，在edge下载，关闭360%……&*（）——（*&……%￥#@￥工具，打开，一键激活则成功">www.aichunjing.com上找KMS激活工具，在edge下载，关闭360%……&amp;*（）——（*&amp;……%￥#@￥工具，打开，一键激活则成功</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WiFi中继</title>
+      <link href="/2024/10/27/666/"/>
+      <url>/2024/10/27/666/</url>
+      
+        <content type="html"><![CDATA[<p>建议使用黑夜模式查看<br>路由制作WiFi放大器</p><h2 id="先知道旧路由品牌"><a href="#先知道旧路由品牌" class="headerlink" title="先知道旧路由品牌"></a>先知道旧路由品牌</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">192.168.0.1</span><br></pre></td></tr></table></figure><p>选择上网方式-无线中继，然后像手机连WiFi选择主路由并连接<br>注：记得先恢复出厂设置旧路由器O!</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用饭太硬接口看电影</title>
+      <link href="/2024/10/27/hello/"/>
+      <url>/2024/10/27/hello/</url>
+      
+        <content type="html"><![CDATA[<p>建议使用黑夜模式查看<br>先下载一个影视app</p><h2 id="如果没有见文章结尾”"><a href="#如果没有见文章结尾”" class="headerlink" title="如果没有见文章结尾”"></a>如果没有见文章结尾”</h2><pre><code class="安装好后打开，点小齿轮&#39;⚙&#39;">www.饭太硬.com/tv```然后ok了注：壁纸请不要填！附件：https://www.123865.com/s/GUIcjv-gZw3d   </code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows重装系统</title>
+      <link href="/2024/10/20/hello-world/"/>
+      <url>/2024/10/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>————————————————</p><p>建议使用黑夜模式查看<br>使用cmdpe重装系统<br>你绝对没想过用cmd重装系统吧！</p><h2 id="先按住Windows-r启动”cmd（管理员模式）”"><a href="#先按住Windows-r启动”cmd（管理员模式）”" class="headerlink" title="先按住Windows+r启动”cmd（管理员模式）”"></a>先按住Windows+r启动”cmd（管理员模式）”</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cmd /c &quot;bitsadmin /transfer a http://win11.ink %cd%\1.cmd&amp;1</span><br></pre></td></tr></table></figure><p>选择你想要的系统版本，进度条跑完后按任意键重启！<br>注：重装系统资料会清空，提前备份！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
